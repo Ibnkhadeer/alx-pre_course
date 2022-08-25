@@ -1,2 +1,2 @@
 My second readme
-School is cool!
+My classes so far are cool, school is cool!
